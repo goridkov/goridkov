@@ -112,7 +112,4 @@ tag_archive:
 collections:
   projects:
     output: true
-    permalink: /:collection/:path/
-  design:
-    output: true
-    permalink: /:collection/:title/
+    permalink: /projects/:path/
