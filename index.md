@@ -10,3 +10,12 @@ classes: wide
 Hi! I'm a final-year PhD candidate in the Mechanical Engineering department at UC Berkeley. I'm advised by Prof. Kosa Goucher-Lambert in the [Co-Design Lab](https://codesign.berkeley.edu/), where I do research on sustainability and human-centered design processes, helping enable designers to apply sustainability principles in the early stages of design. I am affiliated with the [Berkeley Institute of Design](https://bid.berkeley.edu/) and am generously funded by [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). More broadly, I am interested in the intersection of design methods, environmental sustainability, and AI tools.
 
 Previously, I received a B.S. in Mechanical Engineering from MIT, where I worked on ocean acidification research with Dr. Carolina Bastidas.
+
+<h2 class="archive__subtitle">Selected Projects</h2>
+
+<div class="entries-grid">
+  {% assign publications = site.projects | reverse %}
+  {% for post in publications %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
