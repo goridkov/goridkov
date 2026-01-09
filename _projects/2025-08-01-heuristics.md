@@ -13,4 +13,4 @@ header:
 
 **Nicole Goridkov**, Ye Wang, and Kosa Goucher-Lambert. *Design Science.* (2025).
 
-<embed src="/assets/pdf/goridkov-heuristics-designscience.pdf" type="application/pdf" height="250"/>
+<embed src="/assets/pdfs/goridkov-heuristics-designscience.pdf" type="application/pdf" height="250"/>
