@@ -1,6 +1,6 @@
 ---
 title: "Harnessing digital vs physical design for sustainable behavior strategies: A review"
-subtitle: "<b>Nicole Goridkov<b> and Kosa Goucher-Lambert. <u>Proceedings of the ICED Conference.</u> (2025)."
+excerpt: "<b>Nicole Goridkov<b> and Kosa Goucher-Lambert. <u>Proceedings of the ICED Conference.</u> (2025)."
 categories:
   - projects
 tags:
