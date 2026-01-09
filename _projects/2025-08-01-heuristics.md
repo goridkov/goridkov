@@ -1,6 +1,7 @@
 ---
 title: "Empowering designers to create life cycle informed products: heuristics for extracting insights from LCA reports"
-excerpt: "<b>Nicole Goridkov<b>, Ye Wang, and Kosa Goucher-Lambert. <u>Design Science.</u> (2025)."
+excerpt: "**Nicole Goridkov**, Ye Wang, and Kosa Goucher-Lambert. *Design Science.* (2025)."
+subtitle: "**Nicole Goridkov**, Ye Wang, and Kosa Goucher-Lambert. *Design Science.* (2025)."
 categories:
   - projects
 tags:
